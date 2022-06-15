@@ -14,6 +14,10 @@
       "description": "Replace HEROKU_APP_NAME with the name given to your app",
       "value": "https://HEROKU_APP_NAME.herokuapp.com"
     },
+    "NEXTAUTH_URL": {
+      "description": "Replace HEROKU_APP_NAME with the name given to your app",
+      "value": "https://HEROKU_APP_NAME.herokuapp.com"
+    },
     "CALENDSO_ENCRYPTION_KEY": {
       "description": "Application Key for symmetric encryption and decryption. Must be 32 bytes for AES256 encryption algorithm.",
       "value": "secret"
